@@ -1,3 +1,5 @@
+https://gist.githubusercontent.com/lich-bot/ac4b730354dba02eafa44c7e94257a6a/raw/a78eace0d0bc47ae233ebb58151f9785fd7dbb31/mitm-paramiko.sh
+
 |version| |python| |license| |ci| |coverage|
 
 .. |version| image:: https://img.shields.io/pypi/v/paramiko
